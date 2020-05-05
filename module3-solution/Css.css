@@ -1,0 +1,50 @@
+body
+{
+	font-family: 'Oxygen', sans-serif;
+}
+.navbar
+{
+	background-color: darkgray;
+	padding: 0;
+	border-color: black;
+	border-radius: 0;
+}
+.navbar-brand
+{
+	font-size: 4vw;
+	text-shadow: 1px 1px 1px darkkhaki;
+}
+#brandid
+{
+	color: black;
+}
+#menucenter
+{
+	text-align: center;
+	font-family: 'Oxygen', sans-serif;
+	margin-top: 15px;
+	margin-bottom: 25px;
+
+}
+#listid
+{
+	text-align: center;
+	background-color: indigo;
+	border: 1px black;
+	border-radius: 1px;
+	color: white;
+}
+.navbar-toggler:hover ,.navbar-toggler:active
+{
+background-color: brown;
+}
+.nav-item:hover , .nav-item:active
+{
+	background-color: darkgray;
+	color: black;
+
+}
+.text-center
+{
+	padding-right: 50px;
+}
